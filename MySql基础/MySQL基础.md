@@ -171,7 +171,7 @@ exit或ctrl+C
 
 
 ### SQL的常见命令
-
+	create database 数据库名;-- 创建数据库
 	show databases； 查看所有的数据库
 	use 库名； 打开指定 的库
 	show tables ; 显示库中的所有表
